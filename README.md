@@ -2,12 +2,11 @@
 
 ###
 
-<p align="left">Hello, I'm Anurag Sawant, a passionate web developer with a penchant for creating exceptional online experiences. At 20 years old, I am currently pursuing a Bachelor's degree in Information Technology and hold a Diploma in IT. From a young age, I've been captivated by the world of coding and have spent the past years honing my skills in web development. It's a journey that has allowed me to explore the limitless possibilities of the digital realm and continuously expand my knowledge.</p>
+<p align="left">Hello, I'm Anurag Sawant, a passionate web developer with a penchant for creating exceptional online experiences. At 21 years old, I hold a Bachelor's degree in Information Technology and a Diploma in IT. From a young age, I've been captivated by the world of coding and have spent the past years honing my skills in web development. It's a journey that has allowed me to explore the limitless possibilities of the digital realm and continuously expand my knowledge.</p>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=annuraggg&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=annuraggg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
